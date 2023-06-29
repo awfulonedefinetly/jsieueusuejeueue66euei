@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
         int k;
     } ok;
     const char *str1 = "Wesley";
-    const char *str2 = "Askey";
+    const char *str2 = "Redacted";
     char **firstmessage;
     firstmessage = (char **)malloc(2 * sizeof(char *));
     firstmessage[0] = (char *)str1;
